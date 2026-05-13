@@ -102,7 +102,7 @@ I’m interested in data analytics, business intelligence, dashboard development
 
 - [🗄️ SQL Analysis Script](Risk_Analysis.sql)
 
-![Main Dashboard](Main Dashboard.png)
+![Main Dashboard](Main_Dashboard.png)
 
 ![Low Risk Analysis](Dashboard_Risk Category_Low Risk.png)
 
