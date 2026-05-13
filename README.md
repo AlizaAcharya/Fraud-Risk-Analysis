@@ -76,7 +76,7 @@ To work on this problem, I used a transaction-level fraud dataset from Kaggle co
 
 ---
 
-## 🧑‍🎓 What I Gained
+## 🎓 What I Gained
 
 - Hands-on experience working through a full analytics workflow, from data preparation and risk feature creation to SQL analysis and dashboard development.
 
