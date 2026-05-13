@@ -104,6 +104,6 @@ I’m interested in data analytics, business intelligence, dashboard development
 
 ![Main Dashboard](Main_Dashboard.png)
 
-![Low Risk Analysis](Dashboard_Risk_Category_Low Risk.png)
+![Low Risk Analysis](Dashboard_Risk_Category_Low_Risk.png)
 
 ---
