@@ -93,3 +93,13 @@ To work on this problem, I used a transaction-level fraud dataset from Kaggle co
 Hey! I’m Aliza Acharya. I recently completed my MS in Business Analytics at DePaul University and enjoy building data-driven projects using SQL, Power BI, Python, and analytics to solve business problems and support smarter decision-making.
 
 I’m interested in data analytics, business intelligence, dashboard development, and using data to turn complex business problems into actionable insights. Let’s connect if you’d like to discuss analytics, dashboards, SQL, Power BI, or data-driven problem solving.
+
+---
+
+## 📁 Project Files
+
+- [📊 Power BI Dashboard](Fraud_Risk_Analysis.pbix)
+
+- [🗄️ SQL Analysis Script](Risk_Analysis.sql)
+
+---
