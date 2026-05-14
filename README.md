@@ -106,4 +106,6 @@ I’m interested in data analytics, business intelligence, dashboard development
 
 ![Low Risk Analysis](Dashboard_Risk_Category_Low_Risk.png)
 
+![High Risk Online Transaction Monitoring](Online_Channel_HighRisk_Activity_Analysis.png)
+
 ---
