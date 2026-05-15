@@ -36,6 +36,16 @@ To work on this problem, I used a transaction-level fraud dataset from Kaggle co
 
 - **Power BI:** Built an interactive fraud monitoring dashboard using KPI cards, geographic fraud hotspot mapping, risk distribution analysis, decomposition tree investigation, channel-wise risk analysis, login behavior analysis, transaction amount vs risk analysis, and interactive slicers to support transaction investigation and fraud monitoring decisions.
 
+- ---
+
+## 🔄 ETL & Data Preparation Workflow
+
+- Extracted transaction-level fraud data from CSV source files for analysis and dashboard development.
+
+- Transformed the dataset using Python and Power BI by fixing TransactionDate formatting issues, validating transaction fields, correcting inconsistent data types, and preparing the dataset for analytical processing.
+
+- Created transaction risk indicators and behavioral risk logic before loading the cleaned dataset into SQL Server and Power BI for analysis, visualization, and dashboard reporting.
+
 ---
 
 ## 🧰 Tools & Technologies
